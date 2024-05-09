@@ -1,0 +1,24 @@
+Estudiar:
+
+useState
+useEffect
+useContext
+
+-> props
+
+API
+aplication programing interface
+
+Rest
+
+1. Cliente - Servidor
+Cuando existe una relación entre el cliente y el servidor ahí interviene rest
+2. Stateless(Sin estado)
+3. cache
+4. Interface uniforme
+5. sistema
+6. código en demanda
+
+url o uri = uniform recourses locators
+el http con el estado se conoce como esquema(scheme)/lo que vemos despúes del esquema es la autoridad(authority) o dominio/sigue el path(ubicación)/continua el query(consulta)
+patch->fetch= manipular o consultar la uri
